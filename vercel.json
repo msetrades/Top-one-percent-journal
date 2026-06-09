@@ -1,0 +1,6 @@
+{
+  "buildCommand": "pnpm --filter @workspace/trading-journal run build",
+  "outputDirectory": "artifacts/trading-journal/dist/public",
+  "installCommand": "pnpm install",
+  "framework": null
+}
